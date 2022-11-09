@@ -1,3 +1,5 @@
+This is a test.
+
 # Host Resolver
 A stub DNS resolver that runs on the host machine on Linux, macOS, and Windows. The main goal behind this stub resolver is more robust handling of domain name resolutions while using a split tunnel VPN setup.
 
